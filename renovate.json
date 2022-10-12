@@ -10,7 +10,7 @@
       "matchHost": "https://npm.pkg.github.com/",
       "hostType": "npm",
       "encrypted": {
-        "token": "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"
+        "token": "abc"
       }
     }
   ],
