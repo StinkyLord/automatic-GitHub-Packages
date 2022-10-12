@@ -10,8 +10,7 @@
       "matchHost": "https://npm.pkg.github.com/",
       "hostType": "npm",
       "encrypted": {
-        "token": "wcFMA/xDdHCJBTolAQ/+KM901gyNmyvI4KT1RJZw6m4fGPhMmMtlkk2P3+zSe8c3zpDl56mJL98pQYc4PhUqW5tt80uQ41PigDsHxdl7Jr1Vq1m//ZpCHhFZr5k5yu8CysaDdY9pJ8jbwTtuZyEGSF9xEbzjrYNb34+4sswzOtQdv6S6D287L9H8YArO9FPUNvm10iMgLm3ns6xdNyW0XL6Bepw14TkyEFGLbeR9wLXGIhNiyw1+mHeh7S87f50jPDskWs0ugrXP/M92tvBFpaQXaaN+nezgBiEbGoWtAypeV0kYMw1BwSbZyWsJem0JDMD2fhu5tGnyIRSsfq8lRSLQ55SDjn8BpmNDJdcZ10OCi8fB9HpWGkAwOGak+YB6+sDF4nTO+LsQhKcJr/1Pbx82W6i1AFe/rMR1u465DoOGLABft1MUDBvm5Wx5TrMc1u6xMYLDp50iliXJ1cwnV8jF0juOpNvSbLGarTDLIsT5UaihqDhHmvelr7ilN8u5+icuFKIXuqXHmJwF3q8i1FhhZNvNr+pNVS81O7ZXNfuJMlKO5hR+PRdw4jOxy33dH3wNwpJBXpFAdy+Di7K1MfwtxeLOcKKHWOBbMqB/9ok2OS/QeMFyOh1j7fP/n9X/Pmli+fYUsRAKHPb6n3OyqImnKGHJGkmPEnNFh7eJW9Wroc9jnSmZG1SOznZiFqbSegE/QVbx7mnpclo5ekevPXTljoa4KJtgBh3rcnqWBFyHbDf6x9nChj0dWcu/XRvs+VvhuaXcV3G52FVJBWKyGo/L6I31FX1I1kUwQ4GF6GVxPuuRB6kTbqlFDT0hLCw+TqEITKY0msAcwRaooxrzwGJGYeCfd+BOKO9P"
-      }
+        "token": "wcFMA/xDdHCJBTolAQ/+KM901gyNmyvI4KT1RJZw6m4fGPhMmMtlkk2P3+zSe8c3zpDl56mJL98pQYc4PhUqW5tt80uQ41PigDsHxdl7Jr1Vq1m//ZpCHhFZr5k5yu8CysaDdY9pJ8jbwTtuZyEGSF9xEbzjrYNb34+4sswzOtQdv6S6D287L9H8YArO9FPUNvm10iMgLm3ns6xdNyW0XL6Bepw14TkyEFGLbeR9wLXGIhNiyw1+mHeh7S87f50jPDskWs0ugrXP/M92tvBFpaQXaaN+nezgBiEbGoWtAypeV0kYMw1BwSbZyWsJem0JDMD2fhu5tGnyIRSsfq8lRSLQ55SDjn8BpmNDJdcZ10OCi8fB9HpWGkAwOGak+YB6+sDF4nTO+LsQhKcJr/1Pbx82W6i1AFe/rMR1u465DoOGLABft1MUDBvm5Wx5TrMc1u6xMYLDp50iliXJ1cwnV8jF0juOpNvSbLGarTDLIsT5UaihqDhHmvelr7ilN8u5+icuFKIXuqXHmJwF3q8i1FhhZNvNr+pNVS81O7ZXNfuJMlKO5hR+PRdw4jOxy33dH3wNwpJBXpFAdy+Di7K1MfwtxeLOcKKHWOBbMqB/9ok2OS/QeMFyOh1j7fP/n9X/Pmli+fYUsRAKHPb6n3OyqImnKGHJGkmPEnNFh7eJW9Wroc9jnSmZG1SOznZiFqbSegE/QVbx7mnpclo5ekevPXTljoa4KJtgBh3rcnqWBFyHbDf6x9nChj0dWcu/XRvs+VvhuaXcV3G52FVJBWKyGo/L6I31FX1I1kUwQ4GF6GVxPuuRB6kTbqlFDT0hLCw+TqEITKY0msAcwRaooxrzwGJGYeCfd+BOKO9P"      }
     }
   ],
   "npmrc": "@MaronHatoum:registry=https://npm.pkg.github.com/"
