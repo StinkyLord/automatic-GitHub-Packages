@@ -12,7 +12,7 @@
     {
       "matchHost": "https://npm.pkg.github.com/",
       "hostType": "npm",
-      "token": "abc"
+      "token": "{{ secrets.TOKEN }}"
     }
   ],
   "npmrc": "@scatterlab:registry=https://npm.pkg.github.com/"
