@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@types/cors": "^2.8.6",
+    "@MaronHatoum/auto-private": "^0.0.1",
     "@types/express": "^4.17.10",
     "cors": "^2.8.5",
     "express": "^4.17.2",
