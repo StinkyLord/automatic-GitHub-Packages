@@ -1,10 +1,5 @@
 {
   "dependencies": {
-    "@MaronHatoum/auto-private": "^0.0.1",
-    "@types/express": "^4.17.10",
-    "cors": "^2.8.5",
-    "express": "^4.17.2",
-    "google-auth-library": "^7.11.0",
-    "googleapis": "^92.0.0"
+    "@MaronHatoum/auto-private": "^0.0.3"
   }
 }
