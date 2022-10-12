@@ -14,5 +14,5 @@
       }
     }
   ],
-  "npmrc": "@scatterlab:registry=https://npm.pkg.github.com/"
+  "npmrc": "@MaronHatoum:registry=https://npm.pkg.github.com/"
 }
