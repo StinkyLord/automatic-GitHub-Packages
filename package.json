@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@MaronHatoum/myNewPkg": "^1.0.0"
-  }
+  },
+  "publishConfig": {
+   "@maronhatoum:registry": "https://npm.pkg.github.com"
+ }
 }
