@@ -8,10 +8,7 @@
   "hostRules": [
     {
       "matchHost": "https://npm.pkg.github.com/",
-      "hostType": "npm",
-      "encrypted": {
-        "token": "wcFMA/xDdHCJBTolARAAjYOy15lKXVTptOwbiPQ0oj/rsMLhdrhbH61T7RqnCbvDKgttdSzX3dc5ksDc5U5fK6jznNMGlfSiEBfIeNOLEsUxS2raEuEquRI+JAUEs0ms5vUA7cJqEIAcaj7rM785k3s0eIfkuD0X7wfx1n2yjoniMZPE7u9N5UgSz2WQgUrk5ZjKCrHAKKAqNyCPa/h0B9E8+bVK7eN11k3Zf2y/13d5lxGXrdgB5ToQNR5l3kKLOYQPTyPHt3WrUKzhKfF6K0OJ3Ji31wPBbUq2SUF2m3rX8B7XFhBRAQZa4+kSYj0TvhEBGTA6WzPYxg7YNK9MQc6jzJVCxaOV0NYuRVHeMTqLR3JT2hhKOPeGWxba+bOSKAWTaQU6+jHYcf0ZUNTzlAbc3PxGisLfHKx/YdAzU/Pjb8T0C7mywrEUzncjCzjUumLX20yephkyGhIRw8OR1/ZyxKRIe9PIj9ztXwrYPdBjKuSRv8Zw2XA7EGAlVY8385fmrfV5wJ0Gv5BJWVu2OP3FuxpRaWKy4NqTZdP+YavXTfIVw1JhN+zYW2u7Qt4RsT5+OTSzjM8DbfQ/U7XAeqDdpa75Cclmn002kH6Rx502u4n0W5cw8FdMulYH4PzwKoKT1qgzntgdbbbH+plqb3nLZFqd2QrPNMHVDIHuI5SIuXTsJUjZYxPy+zqm+hvSdQFJTMIKu8NiVXLoanRSzgYUMF5U1H3JaOLZnYXu5j3BCZoWLgMnxX7/usJE+kMlQP59xWJVMnGiE4lXa9oWi2M/Asd5hLSOB8K83DUH7deu7G6cY9FAAkHJw3wkoNBU3F9iWWgZkshSLDMk+pK11NMOo6Aicg"
-      }
+      "hostType": "npm"
     }
   ],
   "npmrc": "@maronhatoum:registry=https://npm.pkg.github.com/"
