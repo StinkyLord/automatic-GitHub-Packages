@@ -1,8 +1,7 @@
 {
   "packageRules": [
     {
-      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
-      "automerge": true
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"]
     }
   ],
   "hostRules": [
