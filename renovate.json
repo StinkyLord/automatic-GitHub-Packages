@@ -4,6 +4,7 @@
       "matchUpdateTypes": ["minor", "patch", "pin"]
     }
   ],
+  "npmrc": "registry=https://npm.pkg.github.com/",
   "hostRules": [
     {
       "matchHost": "https://npm.pkg.github.com/",
@@ -11,7 +12,7 @@
       "encrypted": {
         "token": "wcFMA/xDdHCJBTolARAAgocu1rifXJZmgaltajvehJ9dQBGeaWQ8K6m/cI4Hi2DCBFe9Dk1RzN0Ci4E75yJDIZnyR6eM7NpNhGlarAohYIrK01FmTUsaB2oe6BIglpmDRNoSjMAACxjBCnMuuatODMaIYDeCw1Ql4pTNqSzc4b5mqzzKpPybaR98q99OpWZ3UVwj21ogwxAaac3vqiyIQWh/dPpFUc3oE+q4g1KAuJ5i/nbr1EzJGasZXMicFvEod3gEwCQAoyQY7Qv22OZtdR8gwOZE3DkpLQlrdrkQFt8xfFukAfO6g+l3O8V/ccJkMI6w8p2SV6Z0YwJDZiWYA9j+IkaYEQ62QuoFvRZlH9Yl2MogK7PGkEQICY3LRusj0jEIA50zWGybbDXXwSuANdZznc6PdywaxiyIoLKVd2h5+Zku44a4hIQs7jiqfdQJDc885wLlWI/4Dg3Jkl7Ivelsg7BHkonMAawTWld8GPjtqhqfif2H1G8f3uawStvzjY8laSjGSkaAVOBEN/DHD+17ysotJOLfW0HguTWsr7Ka/MOr8mRUeko8THqYO9Kxh8dBFy7DSSHQIB03tITK9g3xozsuMQTPlesIcyRlekYVQGWOz4wDyz9LThvRS369OFQDQolZcem0O161ROzjUeTFnAczrRSy8eaYmFJpWEEaPVrvIUunz/vcJMIbnZrSegFyv+nMHZ4HbIkAeCYzk4nQUs9x+1XpbLNX1xoRZxHX6TU62fnFKHcLMsn7UhHXvosybYdIHsVBU0+N/ZQEyzQ1d89mOWz7Go7oIqQTBDgYyvFcrI2ukwSqixMx94r0kxR4UzvPJUQR6q5MzDAXgFok3IxsSsnOGzNH"
       },
-        "npmrc": "registry=https://npm.pkg.github.com/npm:_authToken=wcFMA/xDdHCJBTolAQ//eBEv+WoOzKaUdoYVKiIuJ11WBMltuZ5xPylaL23xhRobEk1EzXhU7AziikgyojMFMcLmKo75Wl8rJMrtsCPTKfL5Yzlm4YbkTlwDglUJWU7plscHgwP+QOXvL+OYaFR8QnYP6Ii7E/KR48lh2W6oMbIgZnMCQ7mCrGEr//nrp15Ak3Y8kF3og3vqXZI9yvdLVmVhtnyLZuhl3YoEViSzJwS+iq37j4tsBUysga9u3loQ+XNSlVWS4cpARo7oZYfIDUvLrcNLph5UvJxVW6G8PiosQpPs/LIq+UBm5a0p5U8ITAvftDdBJes7CZfMfvW2AtzwMBzHIjuLTALX6QEsULHc4od+CBAB7MIKRkI8g8b7jaJY77iKxe5fbFP/TeFNM+A/g1q59Ff9HFbEjgPONqazzPGH4hC+V/vaK6hsL8VQ0qc889tTnifl6zEbERqJ5QCD+3xGA0K9lv1KcsgHTaRwR2KZnbJEiD9Qt/mHxm12kOEVm6thJsk3wTVOyLhnz1sRDhQCOcC/o4cPFR3McE0A2jxZQFqiN59kOF/Q1k3bhh+ZQJ4O4+I9TScur6Vfs/rzbl7ZdjcU/HORRO0WZrXpXUNkYCNgLubK9fTM87/Or4ufnM5l4dtq7KkAKDUYPLuSS/SiDzP7zcT2sUk2/SmenSOlS5mRxketWQzUGAjSegEkvTcY3QrfTERL8294BWQj0QfdNXJ+m9kGKSyG3AbGsaRG3qRYZclzrp8It64LaLWyNtOjwX9O6CMJGgGNYU0zPSKpPokU0f61JhkSAAEgrAX+kGZ9xWcGB53bi3UMU3pPmCe+7laup0w01+fDH/WNWA0UUBVqzUti"
+     "authType": "Basic"
     }
   ]
 }
