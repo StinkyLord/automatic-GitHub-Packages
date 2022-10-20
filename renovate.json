@@ -4,6 +4,7 @@
       "matchUpdateTypes": ["minor", "patch", "pin"]
     }
   ],
+  
   "hostRules": [
     {
       "matchHost": "https://npm.pkg.github.com/",
