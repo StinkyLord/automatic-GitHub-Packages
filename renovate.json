@@ -4,7 +4,7 @@
       "matchUpdateTypes": ["minor", "patch", "pin"]
     }
   ],
-  "npmrc": "registry=https://npm.pkg.github.com/",
+  "npmrc": "@maronhatoum:registry=https://npm.pkg.github.com/",
   "hostRules": [
     {
       "matchHost": "https://npm.pkg.github.com/",
